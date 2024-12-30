@@ -1,0 +1,61 @@
+{
+    "version": "1.0.0",
+    "waypoints": [
+        {
+            "name": null,
+            "point": {
+                "x": 5.812159999999999,
+                "y": 6.415679999999999,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 8.2,
+                "y": 5.208639999999999,
+                "link": null
+            },
+            "tolerance": 0.2,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 6.717439999999999,
+                "y": 3.18816,
+                "link": null
+            },
+            "tolerance": 0.2,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 9.183999999999997,
+                "y": 2.78144,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        }
+    ]
+}

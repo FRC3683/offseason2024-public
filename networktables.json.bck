@@ -1,0 +1,234 @@
+[
+  {
+    "name": "/Preferences/sm_fr",
+    "type": "double",
+    "value": 0.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/sm_fl",
+    "type": "double",
+    "value": 0.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/sm_br",
+    "type": "double",
+    "value": 0.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/sm_bl",
+    "type": "double",
+    "value": 0.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/intake_assist",
+    "type": "boolean",
+    "value": true,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/throttle",
+    "type": "double",
+    "value": 1.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/teleop_uptime",
+    "type": "double",
+    "value": 11223.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/auton_uptime",
+    "type": "double",
+    "value": 146.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/teleop_uptime_exact",
+    "type": "double",
+    "value": 11222.800000023297,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/auton_uptime_exact",
+    "type": "double",
+    "value": 145.59999999999602,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/turn_speed",
+    "type": "double",
+    "value": 6.914285714285715,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/drive_speed",
+    "type": "double",
+    "value": 10.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/swerve_turning_bias",
+    "type": "double",
+    "value": 0.725,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/wheel_calibration",
+    "type": "double",
+    "value": 1.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/UPTIME_AUTO_PRACTICE",
+    "type": "double",
+    "value": 455.200000000035,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/UPTIME_TELE_PRACTICE",
+    "type": "double",
+    "value": 3874.6999999975715,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/UPTIME_COMP_FMS",
+    "type": "double",
+    "value": 0.5,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/strafe_input_shaping",
+    "type": "string",
+    "value": "custom",
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/turn_input_shaping",
+    "type": "string",
+    "value": "squared",
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/a_rpm",
+    "type": "double",
+    "value": 800.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/a_hood",
+    "type": "boolean",
+    "value": false,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/b_rpm",
+    "type": "double",
+    "value": 800.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/b_hood",
+    "type": "boolean",
+    "value": true,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/x_rpm",
+    "type": "double",
+    "value": 1500.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/x_hood",
+    "type": "boolean",
+    "value": false,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/y_rpm",
+    "type": "double",
+    "value": 1500.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/y_hood",
+    "type": "boolean",
+    "value": true,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/drive_mps",
+    "type": "double",
+    "value": 5.0,
+    "properties": {
+      "persistent": true
+    }
+  },
+  {
+    "name": "/Preferences/drive_degps",
+    "type": "double",
+    "value": 60.0,
+    "properties": {
+      "persistent": true
+    }
+  }
+]

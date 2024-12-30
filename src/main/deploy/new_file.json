@@ -1,0 +1,109 @@
+{
+  "version" : "1.0.0",
+  "use_start_pose" : false,
+  "start_pos" : {
+    "position" : {
+      "x" : 1.3775999999999997,
+      "y" : 5.49728,
+      "link" : null
+    },
+    "angle_degrees" : 0.0
+  },
+  "waypoints" : [ {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 4.224639999999999,
+      "y" : 4.854399999999999,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.5,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 2.98,
+      "y" : 4.85,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ ]
+  }, {
+    "name" : null,
+    "type" : "point",
+    "point" : {
+      "x" : 4.801919999999999,
+      "y" : 4.224639999999999,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.5,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ ]
+  }, {
+    "name" : null,
+    "type" : "point",
+    "point" : {
+      "x" : 8.2,
+      "y" : 4.14,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.5,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ ]
+  }, {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 7.2,
+      "y" : 6.12,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.1,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 7.700067709209857,
+      "y" : 5.130034199476767,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ ]
+  } ]
+}

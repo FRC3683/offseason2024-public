@@ -1,0 +1,109 @@
+{
+  "version" : "1.0.0",
+  "use_start_pose" : false,
+  "start_pos" : {
+    "position" : {
+      "x" : 1.3775999999999997,
+      "y" : 5.49728,
+      "link" : null
+    },
+    "angle_degrees" : 0.0
+  },
+  "waypoints" : [ {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 4.224639999999999,
+      "y" : 4.854399999999999,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.5,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 2.9799922226750253,
+      "y" : 4.854399999999999,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ ]
+  }, {
+    "name" : null,
+    "type" : "point",
+    "point" : {
+      "x" : 4.801919999999999,
+      "y" : 4.224639999999999,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.5,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ ]
+  }, {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 8.2,
+      "y" : 4.08,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.1,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 6.246311181380207,
+      "y" : 4.08,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ ]
+  }, {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 6.87,
+      "y" : 6.32,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.1,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 7.535005423482215,
+      "y" : 5.200003220210325,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ "END_INTAKE" ]
+  } ]
+}

@@ -1,0 +1,116 @@
+{
+    "version": "1.0.0",
+    "starting_position": {
+        "x": 1.4,
+        "y": 5.5,
+        "link": null
+    },
+    "starting_angle_degrees": 0.0,
+    "waypoints": [
+        {
+            "name": null,
+            "type": "line",
+            "point": {
+                "x": 1.8367999999999998,
+                "y": 4.80192,
+                "link": null
+            },
+            "tolerance": 0.5,
+            "max_vel": 4.5,
+            "line_angle_degrees": 57.96511573409955,
+            "arc_center": null,
+            "arc_direction": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "type": "line",
+            "point": {
+                "x": 4.277119999999999,
+                "y": 4.854399999999999,
+                "link": null
+            },
+            "tolerance": 0.5,
+            "max_vel": 4.5,
+            "line_angle_degrees": -1.231977402639728,
+            "arc_center": null,
+            "arc_direction": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "type": "line",
+            "point": {
+                "x": 4.749439999999999,
+                "y": 4.1328,
+                "link": null
+            },
+            "tolerance": 0.5,
+            "max_vel": 4.5,
+            "line_angle_degrees": 56.793429684910464,
+            "arc_center": null,
+            "arc_direction": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "type": "line",
+            "point": {
+                "x": 8.1344,
+                "y": 4.145919999999999,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 4.5,
+            "line_angle_degrees": -0.2220755526934614,
+            "arc_center": null,
+            "arc_direction": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "type": "line",
+            "point": {
+                "x": 4.618239999999999,
+                "y": 4.05408,
+                "link": null
+            },
+            "tolerance": 0.5,
+            "max_vel": 4.5,
+            "line_angle_degrees": 178.50380862917078,
+            "arc_center": null,
+            "arc_direction": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "type": "line",
+            "point": {
+                "x": 4.224639999999999,
+                "y": 4.723199999999999,
+                "link": null
+            },
+            "tolerance": 0.5,
+            "max_vel": 4.5,
+            "line_angle_degrees": -120.46554491945989,
+            "arc_center": null,
+            "arc_direction": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "type": "line",
+            "point": {
+                "x": 1.8236799999999997,
+                "y": 4.723199999999999,
+                "link": null
+            },
+            "tolerance": 0.5,
+            "max_vel": 4.5,
+            "line_angle_degrees": 180.0,
+            "arc_center": null,
+            "arc_direction": null,
+            "events": []
+        }
+    ]
+}

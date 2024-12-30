@@ -1,0 +1,109 @@
+{
+  "version" : "1.0.0",
+  "use_start_pose" : true,
+  "start_pos" : {
+    "position" : {
+      "x" : 1.0,
+      "y" : 1.0,
+      "link" : null
+    },
+    "angle_degrees" : 0.0
+  },
+  "waypoints" : [ {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 3.71,
+      "y" : 6.28,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.1,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 2.353595115588874,
+      "y" : 3.6407215399761927,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ "END_INTAKE" ]
+  }, {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 6.76,
+      "y" : 6.65,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.1,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 5.234945700893776,
+      "y" : 6.4654481515193565,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ "BEGIN_INTAKE" ]
+  }, {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 8.15,
+      "y" : 4.0,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.1,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 7.45449780728711,
+      "y" : 5.32473646433227,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ "BEGIN_INTAKE" ]
+  }, {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 8.65,
+      "y" : 6.09,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.1,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 8.39916569945338,
+      "y" : 5.045199945602372,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ "BEGIN_INTAKE" ]
+  } ]
+}

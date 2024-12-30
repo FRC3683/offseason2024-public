@@ -1,0 +1,145 @@
+{
+    "version": "1.0.0",
+    "waypoints": [
+        {
+            "name": null,
+            "point": {
+                "x": 1.3644799999999997,
+                "y": 5.444799999999999,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 3.7916799999999995,
+                "y": 5.56288,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 4.618239999999999,
+                "y": 4.30336,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 8.068799999999998,
+                "y": 4.11968,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 4.933119999999999,
+                "y": 4.1328,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 4.027839999999999,
+                "y": 4.893759999999999,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 5.602239999999999,
+                "y": 4.10656,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 8.003199999999998,
+                "y": 2.4927999999999995,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 5.772799999999999,
+                "y": 4.17216,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 4.119679999999999,
+                "y": 4.893759999999999,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "max_vel": 3.0,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null,
+            "events": []
+        }
+    ]
+}

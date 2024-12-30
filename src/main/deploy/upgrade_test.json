@@ -1,0 +1,51 @@
+{
+    "version": "1.0.0",
+    "waypoints": [
+        {
+            "name": "",
+            "point": {
+                "x": 1.0,
+                "y": 1.0,
+                "link": null
+            },
+            "tolerance": 0.05,
+            "max_vel": 1.0,
+            "theta_type": "heading",
+            "snap_heading": 0.0,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": "second",
+            "point": {
+                "x": 2.0,
+                "y": 1.0,
+                "link": null
+            },
+            "tolerance": 0.5,
+            "max_vel": 1.0,
+            "theta_type": "heading",
+            "snap_heading": 0.0,
+            "snap_point": null,
+            "events": []
+        },
+        {
+            "name": "",
+            "point": {
+                "x": 2.0,
+                "y": 2.0,
+                "link": null
+            },
+            "tolerance": 0.05,
+            "max_vel": 1.0,
+            "theta_type": "point",
+            "snap_heading": 0.0,
+            "snap_point": {
+                "x": 3.0,
+                "y": 4.0,
+                "link": null
+            },
+            "events": []
+        }
+    ]
+}

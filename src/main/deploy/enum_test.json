@@ -1,0 +1,61 @@
+{
+  "version" : "1.0.0",
+  "use_start_pose" : false,
+  "start_pos" : {
+    "position" : {
+      "x" : 1.0,
+      "y" : 1.0,
+      "link" : null
+    },
+    "angle_degrees" : 0.0
+  },
+  "waypoints" : [ {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 4.23,
+      "y" : 6.47,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.1,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 2.6131663433567835,
+      "y" : 3.7360835918511106,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ "END_INTAKE" ]
+  }, {
+    "name" : null,
+    "type" : "line",
+    "point" : {
+      "x" : 6.73,
+      "y" : 6.8,
+      "link" : null
+    },
+    "through_vel" : 0.0,
+    "tolerance_m" : 0.1,
+    "max_vel" : 4.5,
+    "heading" : 0.0,
+    "line_point" : {
+      "x" : 5.479943714427749,
+      "y" : 6.63542696787959,
+      "link" : null
+    },
+    "arc_center" : {
+      "x" : 0.0,
+      "y" : 0.0,
+      "link" : null
+    },
+    "arc_direction" : "anti_clockwise",
+    "events" : [ "END_INTAKE" ]
+  } ]
+}

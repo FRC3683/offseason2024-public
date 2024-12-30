@@ -1,0 +1,13 @@
+{
+  "version" : "1.0.0",
+  "use_start_pose" : false,
+  "start_pos" : {
+    "position" : {
+      "x" : 1.0,
+      "y" : 1.0,
+      "link" : null
+    },
+    "angle_degrees" : 0.0
+  },
+  "waypoints" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+    "version": "1.0.0",
+    "waypoints": [
+        {
+            "name": null,
+            "point": {
+                "x": 1.7055999999999998,
+                "y": 5.444799999999999,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 3.6604799999999993,
+                "y": 6.127039999999999,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 4.736319999999999,
+                "y": 4.145919999999999,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null
+        },
+        {
+            "name": null,
+            "point": {
+                "x": 6.953599999999999,
+                "y": 4.5395199999999996,
+                "link": null
+            },
+            "tolerance": 0.1,
+            "theta_type": "none",
+            "snap_heading": null,
+            "snap_point": null
+        }
+    ]
+}
